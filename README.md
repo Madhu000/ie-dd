@@ -11,7 +11,7 @@ pip3 install sentence-transformers
 ```
 
 ## Dataset
-Due to submission policy we have not revealed our datasets.
+You can download the dataset from the ``link"
 
 ## Partitioned Data Creation
 Run the following script to generate the partition data.
